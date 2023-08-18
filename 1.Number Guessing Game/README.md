@@ -1,10 +1,15 @@
 ### Project-Overview
 
 Home Page Output
-![HomePage.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FHomePage.png)
+
+
+<img width="664" alt="HomePage" src="https://github.com/ramdhruw21/OIBSIP/assets/123404653/f709a543-d288-4298-a2aa-f779287bb443">
+
 
 Game Page Output
-![GamePage.png](..%2F..%2F..%2F..%2F..%2FPictures%2FScreenshots%2FGamePage.png)
+
+<img width="699" alt="GamePage" src="https://github.com/ramdhruw21/OIBSIP/assets/123404653/53e993f1-e6c7-4866-af91-2048176c7ad6">
+
 
 Technology Uses
 
